@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="6/2/2021 6:38:36 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="KUSUMA"
+  DTS:CreatorName="KUSUMA\vinod"
+  DTS:DTSID="{9A4867DD-6F22-420D-8F11-8FC9A64178B8}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.157"
+  DTS:LocaleID="2057"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{7110A97E-DF23-4FBA-9D2C-DB72198364AC}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
