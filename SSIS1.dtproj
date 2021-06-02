@@ -26,14 +26,21 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">KUSUMA</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
+<<<<<<< HEAD
           <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvlQm8n8+1EGFSx/cySaI1wAAAAACAAAAAAAQZgAAAAEAACAAAABwY+rJQwxW+zzX5tybjaxpuV9hHiPJfUAmsWylhGHG+gAAAAAOgAAAAAIAACAAAAABiLhOxF4Admvafsn41AoUvK23MslOqM+mxnKQNnEpXJAAAADRwugfILD3XCy8QOm8BL0P+F6AVfU+SYCiglrlX2Su9OAAgIjo3mbsMpLhGPGIyhaVu8CT2kCN+k9IlJw8nIFhOITCCcKHU8rzJKa7N/FKi4uMCRYxszHdRc4rs3qTh7bOkRVl7MJ7cNfxM7j8Qc6XMQ501v7dnAuFy+WuG8E5TIzmh4/rEGhZj6cT67wzbhBAAAAAx5Mm50QbNLMe353eOSJ8jUuWxrOd8DHESl+eD/GukMgfXsWHY89FvXS2BDLxxqUbCaTWTooVESlLuRR+yjWyPg==</SSIS:Property>
+=======
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvlQm8n8+1EGFSx/cySaI1wAAAAACAAAAAAAQZgAAAAEAACAAAADnvtw6Lht5+qhtDK4nOwAEo9i3pDwNQTt5ZdfwhoEVogAAAAAOgAAAAAIAACAAAAClGO4u7HPM++FRZ+onJ6qlQ0ixS9fIytBLdynieqjmDZAAAABGoxwUnAMvCaiPF7bDRX/t1hkQ2AIJslg0XNZOYJBwWyvKgHksaz0ut7mkNggztXTbAsrqejTplU/M6L/cmfKYRByJfFHe3DrTrvhTnX2pqQIhnjWLr1yK83QUisLGHq4V/fuGoY0TMsphjEZFdPIYvAYSjhy3qNjsEKWqNlnhnHdZxpNPkYCMqK8gs70LLzBAAAAAb7v4EpADNTqshiOosdN/0RPxHEODd0MKNltUu6Bgfm7LkOuXYBgcaMypA2r5L+VKlwABnx2QHrverKzymQTxbQ==</SSIS:Property>
+>>>>>>> c7c6e381901bfa92d9e76aaed96e741f5f4c3420
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
           <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="Read_Multiple_Sheets.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="Package1.dtsx" SSIS:EntryPoint="1" />
+<<<<<<< HEAD
           <SSIS:Package SSIS:Name="Package2.dtsx" SSIS:EntryPoint="1" />
+=======
+>>>>>>> c7c6e381901bfa92d9e76aaed96e741f5f4c3420
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
@@ -458,6 +465,7 @@
               </SSIS:Properties>
               <SSIS:Parameters />
             </SSIS:PackageMetaData>
+<<<<<<< HEAD
             <SSIS:PackageMetaData SSIS:Name="Package2.dtsx">
               <SSIS:Properties>
                 <SSIS:Property SSIS:Name="ID">{7BEF10FA-34B3-437D-B14C-E98E937093C5}</SSIS:Property>
@@ -475,6 +483,8 @@
               </SSIS:Properties>
               <SSIS:Parameters />
             </SSIS:PackageMetaData>
+=======
+>>>>>>> c7c6e381901bfa92d9e76aaed96e741f5f4c3420
           </SSIS:PackageInfo>
         </SSIS:DeploymentInfo>
       </SSIS:Project>
